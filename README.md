@@ -7,8 +7,13 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-[Monolith to Microservices using DDD](https://docs.microsoft.com/en-us/azure/architecture/microservices/migrate-monolith)
-[Unified logging for microservices applications](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/logging/unified-logging#:~:text=Logging%20uses%20discrete%20event%20messages,failures%2C%20and%20deliver%20informational%20messages.)
+<ul>
+  <li>[Monolith to Microservices using DDD](https://docs.microsoft.com/en-us/azure/architecture/microservices/migrate-monolith) </li>
+  <li>[Unified logging for microservices applications](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/logging/unified-logging#:~:text=Logging%20uses%20discrete%20event%20messages,failures%2C%20and%20deliver%20informational%20messages.) </li>
+  
+  </ul>
+
+
 
 <!-- BLOG-POST-LIST:END -->
 <!--
